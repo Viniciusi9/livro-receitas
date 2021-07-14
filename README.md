@@ -3,4 +3,5 @@
 Olá !  Bem vindo ao livro de receitas:cookie:
 
 - Strogonoff de Frango;
+- Pavê;
 
